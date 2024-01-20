@@ -13,3 +13,7 @@ link2:
 ## Serial Flashing
 
 Complete guide at [The Greak Geekery](http://thegreatgeekery.blogspot.com/2016/02/ecoplug-wifi-switch-hacking.html)
+
+ADDED: Canadian version, has Energy Monitor as well. It is based on HLW8012, however, at this point it is unsure which GPIO is connected to CF and CF1.
+
+Also the GREEN LED (for USB plug) can be controlled via GPIO14
